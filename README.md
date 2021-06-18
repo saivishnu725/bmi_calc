@@ -15,13 +15,13 @@ Step 1b -
 
 ```bash
 # To clone using ssh
-git clone git@github.com:saivishnu725/bmi_calcg.git
+git clone git@github.com:saivishnu725/bmi_calc.git
 ```
 
 Step 2 -
 
 ```bash
-cd mi_card
+cd bmi_card
 flutter run -d <device> # device can be Android/ iOS (This is a headache)/ Chrome/ Desktop (Linux,Windows 10, Mac OS)
 ```
 
